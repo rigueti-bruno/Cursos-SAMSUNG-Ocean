@@ -1,0 +1,5 @@
+,id,nome,telefone_celular,id_curso,nome,dia,id_aluno
+0,1,Bruno,51985479866,13,SQL,Segunda,1
+1,2,Leticia,11987479886,14,Python,Terça,2
+2,5,Maria,36886456173,15,GIT,Quarta,5
+3,4,Carlos,22995438713,16,Docker,Quinta,4
